@@ -1,9 +1,10 @@
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Maheera;Problem+Solver;Python+Developer;AI+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Maheera;Problem+Solver;Happy+Learner;AI+Enthusiast;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  I focus on building intelligent, user-friendly projects using Python — from automation scripts to real-world problem-solving apps.
+  I'm learning to build intelligent agents, chatbots, and automation systems powered by cutting-edge AI.
 </p>
 
 <p align="center">
@@ -15,23 +16,31 @@
   </a>
 </p>
 
+---
 
 ### 🌟 Focus  
-Crafting intelligent web experiences — evolving from **frontend design to AI-driven systems**, now building **Agentic AI, chatbots, and automation workflows** 
+Learning to build **models and production-level projects** using **spec-driven development** and **reusable intelligence**, with an emphasis on clarity, correctness, and long-term maintainability.
 
-  <samp>
-    👩‍💻 Building Data Visualizer Apps & AI Chatbots <br>
-    ⚙️ Exploring Agentic AI & Automation <br>
-    🚀 Developing with FastAPI & Modern Python <br>
-    🤝 Open Source Enthusiast & Collaborator <br>
-    🧠 Learning <span style="color:#00BFFF; text-decoration:underline;"> @Presidential Initiative for AI & Computing</span> <br>
-    🌍 Based in Pakistan 🇵🇰 <br>
-    ✨ Turning ideas into intelligent interfaces
-  </samp>
+<samp>
+🤝 Open Source Enthusiast & Collaborator <br>
+📚 Currently Learning: Agentic AI from Panaversity <br>
+🎓 Constantly learning and pushing the boundaries of AI engineering.
+</samp>
 
-  ### 🧰 Skills
+---
+
+### 🧭 Engineering Mindset  
+<samp>
+• Prefer clear specifications over vague ideas <br>
+• Focus on small, well-documented experiments before scaling <br>
+• Treat learning as an engineering process, not content consumption <br>
+• Value correctness, simplicity, and reusability over hype
+</samp>
+
+---
+
+### 🧰 Skills
 <p align="center">
- 
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" /></a>
@@ -41,23 +50,11 @@ Crafting intelligent web experiences — evolving from **frontend design to AI-d
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-
 </p>
-
 
 ---
 
 <!--
-**mahi-8/mahi-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**mahi-8/mahi-8** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
+
